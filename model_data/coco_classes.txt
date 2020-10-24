@@ -1,0 +1,6 @@
+bluePlate
+yellowPlate
+yellowGreenPLate
+whitePlate
+greenPlate
+blackPlate
